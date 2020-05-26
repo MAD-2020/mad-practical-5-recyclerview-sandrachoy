@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText typeNewText;
     private Button addNewButton;
     RecyclerView recyclerView;
-    ToDoViewHolder todoViewHolder;
     ToDoAdaptor todoAdaptor;
     ArrayList<ToDoList> toDoListArrayList;
 
