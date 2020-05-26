@@ -16,3 +16,4 @@ public class ToDoViewHolder extends RecyclerView.ViewHolder {
         cbToDoList = itemView.findViewById(R.id.cbToDo);
     }
 }
+

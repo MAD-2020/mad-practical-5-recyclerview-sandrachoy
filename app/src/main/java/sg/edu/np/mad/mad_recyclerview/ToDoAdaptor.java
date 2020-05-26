@@ -25,8 +25,6 @@ public class ToDoAdaptor extends RecyclerView.Adapter<ToDoViewHolder> {
         holder.txtToDoList.setText(list_items.getText());
         holder.cbToDoList.setChecked(list_items.isSelected());
 
-
-
     }
 
     @Override
